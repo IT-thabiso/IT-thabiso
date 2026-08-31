@@ -1,5 +1,13 @@
-# 💫 About Me:
-# Hi there, I'm Thabiso Rapolai! 👋<br><br>I am an Information Technology undergraduate at the University of Mancosa bridging the gap between technical software development and business strategy. I combine a strong foundation in coding and cybersecurity with a proven track record of driving commercial results.<br><br>- 📩 **Email:** thabisorapolai@gmail.com<br>- 💼 **Looking for:** IT Support, Software Development, or Business Analysis roles<br><br>---<br><br>### 🚀 The Bridge Between IT & Business Analysis<br>I specialize in translating complex technical capabilities into strategic business value. My unique blend of skills includes:<br>* **Technical toolkit:** Developing software solutions while understanding underlying network and security architecture.<br>* **Commercial acumen:** Closed 100 sales in 5 months for high-consideration technical products (laptops, audio, consumer electronics).<br>* **Analytical mindset:** Translating ambiguous user requirements into actionable technical specifications and measurable outcomes.<br><br>---<br><br>### 🛠️ Technical Skills<br><br>* **Languages & Scripting:** Java, Python<br>* **Web Development:** HTML5, CSS3, JavaScript<br>* **Infrastructure & Security:** Network Fundamentals, Cybersecurity Basics, Systems Analysis<br>* **Core Competencies:** Business Analysis, Requirement Gathering, Technical Communication<br><br>---<br><br>### 📈 Current Focus & Projects<br>* 🎓 Advancing my IT degree at the University of Mancosa.<br>* 💻 Building self-directed software projects to solve real-world business problems.<br>* 🔍 Refining my skills in data analysis and technical problem-solving under pressure.<br>
+Hi there, I'm Thabiso Rapolai! 👋
+
+I am an Information Technology undergraduate at the University of Mancosa bridging the gap between technical software development and business strategy. I combine a strong foundation in coding and cybersecurity with a proven track record of driving commercial results.
+
+Email: thabisorapolai@gmail.com 
+
+ 
+Languages & Scripting: 
+
+Java,Python HTML,Java,Cybersecurity, Systems Analysis, Business Analysis,   Critical thinking and problem-solving.
 
 
 ## 🌐 Socials:
