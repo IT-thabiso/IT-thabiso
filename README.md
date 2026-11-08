@@ -1,6 +1,6 @@
 Hi there, I'm Thabiso Rapolai! 👋
 
-I am any undergraduate at the University of Mancosa bridging the gap between technical software development and business strategy. I combine a strong foundation in coding and cybersecurity with a proven track record of driving commercial results.
+I am an undergraduate at the University of Mancosa bridging the gap between technical software development and business strategy. I combine a strong foundation in coding and cybersecurity with a proven track record of driving commercial results.
 
 Email: thabisorapolai@gmail.com 
 
